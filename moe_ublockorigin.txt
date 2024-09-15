@@ -4,7 +4,18 @@
 ! Version: 0
 ! Homepage: https://github.com/Gokou-Ruri/moefiles/blob/main/moe_ublockorigin.txt
 !
-copilot.microsoft.com###b_header > .b_hide
-copilot.microsoft.com###b_sydWelcomeTemplate_ > .b_wlcmCont.b_ziTileCont
-copilot.microsoft.com##.preview-container
 
+! 2024年8月7日 https://copilot.microsoft.com
+copilot.microsoft.com###b_header > .b_hide
+
+! 2024年9月15日 https://copilot.microsoft.com
+copilot.microsoft.com###b_sydWelcomeTemplate_ > .b_wlcmCont.b_ziTileCont
+copilot.microsoft.com##.preview-container 
+
+! 2024年9月15日 https://tongyi.aliyun.com
+tongyi.aliyun.com##.cardGroup--RuTr2H6x
+tongyi.aliyun.com##.desc--Cac3LjCw
+tongyi.aliyun.com##.apiBtn--q9nMSVnd
+
+! 2024年9月15日 https://kimi.moonshot.cn
+kimi.moonshot.cn##.exampleContainer___vruNK
