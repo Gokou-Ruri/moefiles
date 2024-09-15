@@ -1,0 +1,10 @@
+![Adblock Plus 2.0]
+! Title: moe filter
+! Description: moe rule
+! Version: 0
+! Homepage: https://github.com/Gokou-Ruri/moefiles/blob/main/moe_ublockorigin.txt
+!
+copilot.microsoft.com###b_header > .b_hide
+copilot.microsoft.com###b_sydWelcomeTemplate_ > .b_wlcmCont.b_ziTileCont
+copilot.microsoft.com##.preview-container
+
