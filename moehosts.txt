@@ -1,0 +1,7 @@
+# [垃圾广告]
+# [谷歌]
+127.0.0.1 googleads.g.doubleclick.net
+# [网易]
+127.0.0.1 wxsnsdy.wxs.qq.com
+# [腾讯]
+127.0.0.1 wxsnsdythumb.wxs.qq.com
